@@ -1,0 +1,16 @@
+[
+  {
+    "id": "374824",
+    "width": 6000,
+    "height": 4000,
+    "url": "https://www.pexels.com/photo/374824",
+    "photographer": "Jane Doe",
+    "photographer_url": "https://www.pexels.com/@janedoe",
+    "avg_color": "#B28A6A",
+    "src": {
+      "original": "https://images.pexels.com/photos/374824/original.jpg",
+      "small": "https://images.pexels.com/photos/374824/small.jpg"
+    },
+    "alt": "Golden Hour Rain"
+  }
+]
